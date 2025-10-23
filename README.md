@@ -1,4 +1,4 @@
- 💤 My Neovim Setup
+# 💤 My Neovim Setup
 
 A modern, fast, and aesthetic Neovim configuration — built around **lazy.nvim**, **Catppuccin**, and the latest Neovim (≥ 0.11) LSP APIs.
 
